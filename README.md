@@ -1,2 +1,0 @@
-# ajaguar.github.io
-website
